@@ -1,0 +1,10 @@
+.container__photo{
+    width: 1000px;
+    height: 400px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
